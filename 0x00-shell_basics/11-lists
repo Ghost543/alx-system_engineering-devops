@@ -1,0 +1,9 @@
+#!/bin/sh
+echo "CURRENT DIRECTORY"
+ls -al
+
+echo "PARRENT DIRECTORY"
+ls -al ..
+
+echo "BOOT DIRECTORY"
+ls -al /boot
